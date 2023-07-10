@@ -1,6 +1,6 @@
 # P02_Primitives_and_Keyboard_Input
 - 더 자세한 설명은 첨부된 [HW02_Report.pdf](./HW02_Report.pdf)를 확인하길 바란다. 
-- EXE와 SOURCE 폴더에서는 실행파일과 소스코드를 확인할 수 있다.
+- EXE와 SOURCE 폴더에는 실행파일과 소스코드를 확인할 수 있다.
 ## Contents
 - Primitives: points, lines, triangles, polygon, …
 - Line stippling and polygon filling

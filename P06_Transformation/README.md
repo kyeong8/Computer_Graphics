@@ -1,6 +1,6 @@
 # P05_3D_Programming
 - 더 자세한 설명은 첨부된 [HW05_Report.pdf](./HW05_Report.pdf)를 확인하길 바란다. 
-- EXE와 SOURCE 폴더에서는 실행파일과 소스코드를 확인할 수 있다.
+- EXE와 SOURCE 폴더에는 실행파일과 소스코드를 확인할 수 있다.
 ## Contents
 - Draw OpenGL quadric objects: sphere, cylinder, disk 
 - Read/draw a polygonal bunny model using points
