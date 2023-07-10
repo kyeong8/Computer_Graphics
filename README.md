@@ -1,5 +1,6 @@
 # Computer Graphics
-
+모든 Project 폴더 내부에는 공통적으로 EXE, SOURCE 폴더가 존재한다.  
+해당 EXE와 SOURCE 폴더에서는 실행파일과 소스코드를 확인할 수 있다.
 ## Contents
 ### Practice
 - [P01_Preparation]
