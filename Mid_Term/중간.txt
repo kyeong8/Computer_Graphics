@@ -1,0 +1,7 @@
+<GLM을 이용하여 scaled cube 만들기>
+1. Draw a cube with center at (0.5, 0.5, 0.5) and length 1.
+2. Scaling a cube wrt a direction(1, 1, 0)
+3. Scaling a cube wrt a direction(1, 1, 0) and pivot(0.5, 0.5, 0.5)
+4. Translate result of 3 wrt a point (0.5, 0.5, 0)
+5. Rotate result of 4 wrt a z-axis(0, 0, 1)
+6. Rotate result of 4 wrt a z-axis(0, 0, 1) and pivot(0.5, 0.5, 0)
